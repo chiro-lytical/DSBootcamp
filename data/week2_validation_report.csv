@@ -1,0 +1,15 @@
+country,group,language,total_posts,crisis_posts,baseline_neg_pct,crisis_neg_pct,mean_vader,mean_unified,parsbert_available,vader_parsbert_agreement
+Afghanistan,Oil-Dependent,fa,1061,698,27.5,60.9,-0.0718,-0.0745,Yes,70.9
+Australia,Oil-Independent,en,3453,2218,16.2,38.6,-0.0356,-0.0356,N/A,N/A
+Bangladesh,Oil-Dependent,en,1128,749,14.8,47.0,-0.0843,-0.0843,N/A,N/A
+Brazil,Oil-Independent,en,2336,1506,14.5,41.0,-0.0407,-0.0407,N/A,N/A
+Canada,Oil-Independent,en,4916,3183,13.8,36.7,-0.021,-0.021,N/A,N/A
+India,Oil-Dependent,en,7070,4563,15.7,47.6,-0.088,-0.088,N/A,N/A
+Iran,Conflict-Zone,fa,5785,3696,23.5,59.1,-0.0533,-0.0518,Yes,70.9
+Japan,Oil-Dependent,en,4074,2650,16.4,47.3,-0.0898,-0.0898,N/A,N/A
+Norway,Oil-Independent,en,1459,953,14.6,38.0,-0.0176,-0.0176,N/A,N/A
+Pakistan,Oil-Dependent,en,1974,1282,16.3,48.2,-0.0845,-0.0845,N/A,N/A
+Philippines,Oil-Dependent,en,2741,1758,15.6,48.1,-0.0908,-0.0908,N/A,N/A
+South Korea,Oil-Dependent,en,3211,2109,16.5,46.8,-0.0876,-0.0876,N/A,N/A
+UK,Oil-Independent,en,4421,2859,15.3,38.9,-0.0385,-0.0385,N/A,N/A
+USA,Oil-Independent,en,10324,6705,13.7,38.2,-0.0198,-0.0198,N/A,N/A

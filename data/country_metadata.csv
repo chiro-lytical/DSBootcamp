@@ -1,0 +1,19 @@
+country,iso3,group,oil_import_pct,primary_language,subreddits
+Japan,JPN,Oil-Dependent,95,en,japan|japanlife
+India,IND,Oil-Dependent,85,en,india|IndiaSpeaks
+Philippines,PHL,Oil-Dependent,100,en,Philippines
+Pakistan,PAK,Oil-Dependent,85,en,pakistan
+South Korea,KOR,Oil-Dependent,97,en,korea|hanguk
+Bangladesh,BGD,Oil-Dependent,100,en,bangladesh
+Norway,NOR,Oil-Independent,0,en,norway|Norge
+Canada,CAN,Oil-Independent,0,en,canada
+USA,USA,Oil-Independent,5,en,politics|economics|news
+Brazil,BRA,Oil-Independent,10,en,brasil
+Australia,AUS,Oil-Independent,30,en,australia
+UK,GBR,Oil-Independent,40,en,unitedkingdom|ukpolitics
+Iran,IRN,Conflict-Zone,0,fa,iran|iranian
+Afghanistan,AFG,Oil-Dependent,100,fa,afghanistan|Afghan
+Israel,ISR,Conflict-Zone,100,en,Israel|IsraelPalestine
+Iraq,IRQ,Conflict-Zone,0,en,iraq|Iraqi
+UAE,ARE,Gulf-Producer,0,en,dubai|UAE
+Saudi Arabia,SAU,Gulf-Producer,0,en,saudiarabia|KSA

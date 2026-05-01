@@ -1,0 +1,38 @@
+{
+  "its": {
+    "r_squared": 0.9773984859595186,
+    "crisis_level_change": 56.64296682812989,
+    "crisis_level_pvalue": 1.6433700829999392e-26,
+    "crisis_slope_change": -0.2912924346491971,
+    "crisis_slope_pvalue": 3.369579418504578e-07
+  },
+  "granger": [
+    {
+      "lag": "1",
+      "f_stat": 0.3289611207470866,
+      "p_value": 0.5684513822091631,
+      "significant": "NO"
+    },
+    {
+      "lag": "2",
+      "f_stat": 0.11810639387650311,
+      "p_value": 0.8888222557976445,
+      "significant": "NO"
+    },
+    {
+      "lag": "3",
+      "f_stat": 0.06816084946890454,
+      "p_value": 0.9766151169649258,
+      "significant": "NO"
+    }
+  ],
+  "oil_eai_correlation": {
+    "pearson_r": 0.9185865608706384,
+    "p_value": 1.1056762318608174e-26
+  },
+  "eai_by_group": {
+    "Oil-Dependent": 72.49419642857143,
+    "Oil-Independent": 56.75677083333333,
+    "Conflict-Zone": 76.27812499999999
+  }
+}
